@@ -1,0 +1,14 @@
+:root {
+	--main-bg-clr: #2b2b2b;
+	--main-txt-clr: #efefef;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+	background-color: var(--main-bg-clr);
+	color: var(--main-txt-clr);
+}
